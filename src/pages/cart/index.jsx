@@ -208,6 +208,7 @@ export default function Cart() {
                   setLoader(true);
                   submitOrder();
                 }}
+                disabled
               >
                 {paymentloader ? (
                   <div className={styles.loader}></div>

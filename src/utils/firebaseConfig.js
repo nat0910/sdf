@@ -43,7 +43,7 @@ function initializeServices() {
   const firebaseApp = initializeApp(firebaseConfig);
   if (location.hostname !== "localhost") {
     const appCheck = initializeAppCheck(firebaseApp, {
-      provider: new ReCaptchaV3Provider('6Le65I0kAAAAANibM2WZrCQdBJWIVzn7AKz_H6j4'),
+      provider: new ReCaptchaV3Provider(import.meta.env.VITE_FIREBAE_RECAPTCHA),
       // Optional argument. If true, the SDK automatically refreshes App Check
       // tokens as needed.
       isTokenAutoRefreshEnabled: true
