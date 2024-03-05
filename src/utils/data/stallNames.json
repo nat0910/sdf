@@ -1,26 +1,29 @@
 {
   "stall-01": {
-    "name": "Maa Annapurna"
+    "name": "Sub's N Sip's"
   },
   "stall-02": {
-    "name": "DP's Kitchen"
+    "name": "Chatorezzz"
   },
   "stall-03": {
-    "name": "Shakes & Shakes"
+    "name": "M^3 S (Modak, Momos N Maggi)"
   },
   "stall-04": {
-    "name": "Veg fast food corner"
+    "name": "M^3 S (Juices N Shakes)"
   },
   "stall-05": {
-    "name": "Refreshing Engineering"
+    "name": "Nostalgic Corner"
+  },
+  "stall-06": {
+    "name": "Floaty Fusions"
+  },
+  "stall-07": {
+    "name": "Waffle Up"
   },
   "stall-08": {
-    "name": "Sweet'A' Doodle Do"
+    "name": "Beachy Mocktails"
   },
   "stall-09": {
-    "name": "BE Dabeli"
-  },
-  "stall-10": {
-    "name": "Pizza's Square"
+    "name": "Choco-Moco"
   }
 }
